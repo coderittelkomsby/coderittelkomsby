@@ -1,5 +1,7 @@
 ### Welcome to Repo of CODER Team 🔥
 
+CODER is a community of IT activists formed to contribute to building the existing technology infrastructure at ITTelkom Surabaya. We also carry out development and research on projects independently.
+
 <!--
 **coderittelkomsby/coderittelkomsby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
